@@ -1,0 +1,22 @@
+PODS:
+  - ComponentKit (0.11)
+  - FLEX (2.0.2)
+  - PureLayout (2.0.6)
+  - Reveal-iOS-SDK (1.5.1)
+  - Underscore.m (0.2.1)
+
+DEPENDENCIES:
+  - ComponentKit
+  - FLEX
+  - PureLayout (~> 2.0.6)
+  - Reveal-iOS-SDK
+  - Underscore.m (~> 0.2)
+
+SPEC CHECKSUMS:
+  ComponentKit: 66ee65df1df9983b689cb7df15d9fe59a1a03903
+  FLEX: 321e6150cbababb76aaadde355dfce2ee1cac2d8
+  PureLayout: f25f0bb904d5ccfe6e31da3cb869185259f02e0d
+  Reveal-iOS-SDK: c9c55cad2729c85f6ced415f1b21857c9a2d8ef9
+  Underscore.m: b86ca364d60509a39eb9c7886443c063b793aaba
+
+COCOAPODS: 0.36.3

@@ -8,6 +8,9 @@
 
 #import "AppDelegate.h"
 
+#import "CountdownViewController.h"
+
+
 @interface AppDelegate ()
 
 @end
@@ -17,6 +20,12 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    CountdownViewController *c = [[CountdownViewController alloc] init];
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    [self.window setRootViewController:c];
+    [self.window makeKeyAndVisible];
+    
     return YES;
 }
 

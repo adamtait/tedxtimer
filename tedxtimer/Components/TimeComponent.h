@@ -7,7 +7,10 @@
 //
 
 #import "CKCompositeComponent.h"
+#import "Time.h"
 
 @interface TimeComponent : CKCompositeComponent
+
++ (instancetype)newWithTime:(Time *)t;
 
 @end

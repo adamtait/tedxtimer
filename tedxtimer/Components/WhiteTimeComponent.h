@@ -10,4 +10,6 @@
 
 @interface WhiteTimeComponent : CKCompositeComponent
 
++ (instancetype)newWithSeconds:(NSNumber*)seconds;
+
 @end

@@ -8,6 +8,10 @@
 
 #import "CKCompositeComponent.h"
 
+#import "Task.h"
+
 @interface TaskComponent : CKCompositeComponent
+
++ (instancetype)newWithTask:(Task*)task timeElapsed:(NSNumber*)timeElapsed;
 
 @end

@@ -10,4 +10,11 @@
 
 @implementation TimerContext
 
+- (id)init {
+    if (self = [super init]) {
+        _elapsedTime = 0;
+    }
+    return self;
+}
+
 @end

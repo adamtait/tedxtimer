@@ -10,4 +10,8 @@
 
 @interface TimerContext : NSObject
 
+@property (nonatomic, strong) NSNumber *elapsedTime;
+
+- (id)init;
+
 @end

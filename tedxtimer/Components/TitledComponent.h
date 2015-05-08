@@ -8,6 +8,13 @@
 
 #import "CKCompositeComponent.h"
 
-@interface TitledTimerComponent : CKCompositeComponent
+#import "TimeComponent.h"
+#import "TaskComponent.h"
+
+@interface TitledComponent : CKCompositeComponent
+
++ (instancetype)newWithTitle:(NSString *)title
+              timeComponent:(TimeComponent *)timeComponent
+               taskComponent:(TaskComponent *)taskComponent;
 
 @end

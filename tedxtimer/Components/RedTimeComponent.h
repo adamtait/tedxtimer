@@ -10,4 +10,6 @@
 
 @interface RedTimeComponent : CKCompositeComponent
 
++ (instancetype)newWithSeconds:(NSNumber*)seconds;
+
 @end

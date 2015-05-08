@@ -8,6 +8,12 @@
 
 #import <Foundation/Foundation.h>
 
+#import "Task.h"
+
 @interface TaskModelController : NSObject
+
+- (Task *)peek;
+- (Task *)nextTask;
+- (Task *)previousTask;
 
 @end

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-tedxtimer-ComponentKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-tedxtimer-FLEX.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-tedxtimer-PureLayout.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-tedxtimer-Underscore.m.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-tedxtimer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>708F285C94035FAF424159B3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8692D7105683BA8E2B18AA46</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90B34BDE4BACB6C29399B122</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AF241332B094EE1C66EC4390</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B91C5A39DA0F0B97916472EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

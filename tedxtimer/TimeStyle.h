@@ -9,5 +9,9 @@
 #ifndef tedxtimer_TimeStyle_h
 #define tedxtimer_TimeStyle_h
 
+typedef NS_ENUM(NSUInteger, TimeStyle) {
+    TimeStyleWhite,
+    TimeStyleRed,
+};
 
 #endif
